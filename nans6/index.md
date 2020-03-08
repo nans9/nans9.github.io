@@ -12,7 +12,7 @@ title: NANS6
 
 **ドラフトの結果、以下の通り都市の割り当てが決まりました。 ('20/3/8 23:40)**
 
-![](https://media.discordapp.net/attachments/394480059357855744/686221550730739712/NANS6-with-company.png)
+![](https://d20bb5quu0uyhd.cloudfront.net/m/ca5a1bf4-e582-4d6c-85e6-0814b03c105b.png)
 
 ### 首都圏詳細(-は首都に付属する附属都市)
 
